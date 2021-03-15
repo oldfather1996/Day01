@@ -1,0 +1,54 @@
+body{
+    margin:auto;
+    height: 100%;
+    width:100%;
+}
+.logo{
+    float: left;
+}
+.menu{
+    border-style: ridge;
+    width: 99%;
+    height: 30px;
+    margin-top: 2px;
+
+}
+.head-link{
+    margin-top : 2px;
+    float: left;
+}
+.menu1{
+    font-size: large;
+    border-color: black;
+    border-right: solid ;
+    /* border-left: solid; */
+}
+.search {
+    margin-top : 2px;
+    float: right;
+}
+ul{
+    list-style: none;
+}
+.left{
+    border-style: solid;
+    width: 10%;
+    text-align: left;
+    font-size: large;
+    float: left;
+    margin-right: 2px;
+}
+.right{
+    margin-left: 2px;
+    width: 100%;
+}
+.right-biatruyen{
+    margin:0.6rem;
+    border-style: ridge;
+    width: 170px ;
+    height: 340px;
+    float:left
+}
+.right-new{
+    text-align: center;
+}
